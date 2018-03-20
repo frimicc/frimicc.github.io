@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            "Frimicc's Home on the Web"
+tagline:          'Home of Hex Map Maker'
+description:      'A place to put my stuff. Nothing much happens here.'
+url:              http://www.frimicc.com
+baseurl:          /
+
+author:
+  name:           'Michael Friedman'
+  url:            https://twitter.com/frimicc
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/frimicc/frimicc.github.io
