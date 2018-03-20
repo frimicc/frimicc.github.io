@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            "Frimicc's Home on the Web"
+title:            "Frimicc"
 tagline:          'Home of Hex Map Maker'
-description:      'A place to put my stuff. Nothing much happens here.'
+description:      'Apps & Meanderings'
 url:              http://www.frimicc.com
 baseurl:          /
 
