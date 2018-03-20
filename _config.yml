@@ -9,8 +9,10 @@ permalink:        pretty
 title:            "Frimicc's Home on the Web"
 tagline:          'Home of Hex Map Maker'
 description:      'A place to put my stuff. Nothing much happens here.'
-url:              http://www.frimicc.com
-baseurl:          /
+
+site:
+  url:              http://www.frimicc.com
+  baseurl:          /
 
 author:
   name:           'Michael Friedman'
