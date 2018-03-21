@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            "Frimicc"
-tagline:          'Home of Hex Map Maker'
+tagline:          'Apps & Meanderings'
 description:      'Apps & Meanderings'
 url:              http://www.frimicc.com
 baseurl:          /
@@ -15,6 +15,7 @@ baseurl:          /
 author:
   name:           'Michael Friedman'
   url:            https://twitter.com/frimicc
+  email:          'frimicc@gmail.com'
 
 paginate:         5
 
