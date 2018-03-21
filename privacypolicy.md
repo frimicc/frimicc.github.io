@@ -59,7 +59,7 @@ According to CalOPPA, we agree to the following:
 - Once this privacy policy is created, we will add a link to it on our home page or, as a minimum, on the first significant page after entering our website.
 - Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 - You will be notified of any Privacy Policy changes on our Privacy Policy Page.
-- You can change your personal information by emailing us at {{ author.email }} .
+- You can change your personal information by emailing us at {{ site.author.email }} .
 
 ## How does our site handle Do Not Track signals?
 
@@ -119,6 +119,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
     San Jose, CA 95126,
     United States
 - Via email:
-    {{ author.email }}
+    {{ site.author.email }}
 
-Last Edited on 2018-03-20 by Michael Friedman
+Last Edited on 2018-03-20 by {{ site.author.name }}.
