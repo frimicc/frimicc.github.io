@@ -106,15 +106,14 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 ## Applies to all Apps from frimicc.com
 
-This Privacy Policy applies to the website, http://www.frimicc.com/, and all apps offered for sale by Michael
-Friedman unless otherwise noted.
+This Privacy Policy applies to the website, {{ site.url }}, and all apps offered for sale by {{ site.author.name }} unless otherwise noted.
 
 ## Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 - Via postal mail:
-    www.frimicc.com,
+    {{ site.author.name }},
     370 Meridian Ave,
     San Jose, CA 95126,
     United States
