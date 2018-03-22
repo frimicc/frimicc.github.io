@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Verdana", sans-serif;
+  /* font-family: "Verdana", sans-serif;*/
   font-weight: bold;
   font-size: 3.25rem;
 }
