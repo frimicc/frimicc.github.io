@@ -29,12 +29,12 @@ site.author.email }}.
 
 ## FAQ
 
-1. Why doesn't Hex Map Maker do ______ ?
+### 1. Why doesn't Hex Map Maker do <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>?
 
 The short answer is: because I work on this in my very-not-free time. New features will be few and far between.
 However, you should know that this app exists because I want to use it, so it will be usable at all times.
 
-2. Sometimes panning goes backwards.
+### 2. Sometimes panning goes backwards.
 
 Yes, I haven't been able to reproduce it enough to fix it.
 
