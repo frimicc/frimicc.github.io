@@ -7,7 +7,7 @@ title: Hex Map Maker
 
 Easily make and print old-school style role-playing game hex maps!
 
-Hex Map Maker is designed to make maps similar to those from the old Dungeons & Dragons® Expert set for use in pen and paper role-playing games. Use the symbol picker on the left to choose a symbol and then tap on the hexes to see your map take shape. Make a mistake? Just pick a different symbol and tap the hexes to change. 
+Hex Map Maker is designed to make maps similar to those from the old Dungeons & Dragons® Expert set for use in pen and paper role-playing games. Use the symbol picker on the left to choose a symbol and then tap on the hexes to see your map take shape. Make a mistake? Just pick a different symbol and tap the hexes to change.
 
 Change hex types or map size without losing your current map! (Though it will look a little different as the rows and columns move around.)
 
@@ -18,9 +18,26 @@ Change hex types or map size without losing your current map! (Though it will lo
 * Pinch and zoom or pan with two fingers to see the whole map or zoom in to focus on details.
 * Print whatever is on the screen -- so you can print the whole map or just a small portion.
 * Save your maps to local storage so you can carry your entire campaign in your pocket.
-* Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit. 
+* Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit.
 
 ## Screenshots
+
+## Support
+
+If you have questions about Hex Map Maker or would like to suggest future improvements, please email me at {{
+site.author.email }}.
+
+## FAQ
+
+1. Why doesn't Hex Map Maker do ______ ?
+
+The short answer is: because I work on this in my very-not-free time. New features will be few and far between.
+However, you should know that this app exists because I want to use it, so it will be usable at all times.
+
+2. Sometimes panning goes backwards.
+
+Yes, I haven't been able to reproduce it enough to fix it.
+
 
 ## Note
 
