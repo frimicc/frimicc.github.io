@@ -5,6 +5,10 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 
+plugins:
+    - jekyll-seo-tag
+    - jekyll-feed
+
 # Setup
 title:            "Frimicc"
 tagline:          'Apps & Meanderings'
@@ -14,8 +18,9 @@ baseurl:          /
 
 author:
   name:           'Michael Friedman'
-  url:            https://twitter.com/frimicc
+  url:            https://www.frimicc.com/
   email:          'michael@frimicc.com'
+  twitter:        frimicc
 
 paginate:         5
 
