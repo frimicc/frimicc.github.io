@@ -11,6 +11,8 @@ Hex Map Maker is designed to make maps similar to those from the old Dungeons & 
 
 Change hex types or map size without losing your current map! (Though it will look a little different as the rows and columns move around.)
 
+[![Download on the App Store]({{ site.baseurl }}/public/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg){: .center-image}]()
+
 ## Features:
 * Choose from either pointy-top or flat-top hexes.
 * Make maps of any size by choosing the number of rows and columns from the menu.
