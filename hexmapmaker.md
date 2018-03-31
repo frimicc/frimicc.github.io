@@ -21,6 +21,8 @@ Change hex types or map size without losing your current map! (Though it will lo
 * Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit.
 
 ## Screenshots
+![iPad Map Screenshot]({{ site.baseurl }}/public/images/HexMapiPadLandscapeMapFlat.png){:height="100px"}
+![iPhoneX Map Screenshot]({{ site.baseurl }}/public/images/HexMapXPortraitMapPointy.png){:height="100px"}
 
 ## Support
 
@@ -38,6 +40,13 @@ However, you should know that this app exists because I want to use it, so it wi
 
 Yes, I haven't been able to reproduce it enough to fix it.
 
+#### 3. How do I draw rivers, cities, text on the map?
+
+There are many better drawing apps for iOS than I have time to make. You can create a map in Hex Map Maker and then
+choose "Print View" from the menu. Force/3D Touch on the page image to open it in a PDF preview mode. From there
+you can use the share sheet to send the PDF to any drawing program you like!
+
+Or print it to paper and draw on it the old-fashioned way. That's what I do.
 
 ## Note
 
