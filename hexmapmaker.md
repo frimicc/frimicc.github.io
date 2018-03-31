@@ -21,7 +21,7 @@ Change hex types or map size without losing your current map! (Though it will lo
 * Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit.
 
 ## Screenshots
-![iPad Map Screenshot]({{ site.baseurl }}/public/images/HexMapiPadLandscapeMapFlat.png){:width="50%"}&nbsp;&nbsp;![iPhoneX Map Screenshot]({{ site.baseurl }}/public/images/HexMapXPortraitMapPointy.png){:width="30%"}
+![iPad Map Screenshot]({{ site.baseurl }}/public/images/HexMapiPadLandscapeMapFlat.png){:width="50%"}&nbsp;![iPhoneX Map Screenshot]({{ site.baseurl }}/public/images/HexMapXPortraitMapPointy.png){:width="30%"}
 
 ## Support
 
