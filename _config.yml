@@ -6,6 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 plugins:
+    - jekyll-paginate
     - jekyll-seo-tag
     - jekyll-feed
 
@@ -14,7 +15,7 @@ title:            "Frimicc"
 tagline:          'Apps & Meanderings'
 description:      'Apps & Meanderings'
 url:              http://www.frimicc.com
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Michael Friedman'
