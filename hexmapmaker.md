@@ -33,16 +33,12 @@ site.author.email }}.
 
 ## FAQ
 
-#### 1. Why doesn't Hex Map Maker do <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>?
+#### Why doesn't Hex Map Maker do <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>?
 
 The short answer is: because I work on this in my very-not-free time. New features will be few and far between.
 However, you should know that this app exists because I want to use it, so it will be usable at all times.
 
-#### 2. Sometimes panning goes backwards.
-
-Yes, I haven't been able to reproduce it enough to fix it.
-
-#### 3. How do I draw rivers, cities, text on the map?
+#### How do I draw rivers, cities, text on the map?
 
 There are many better drawing apps for iOS than I have time to make. You can create a map in Hex Map Maker and then
 choose "Print View" from the menu. Force/3D Touch on the page image to open it in a PDF preview mode. From there
