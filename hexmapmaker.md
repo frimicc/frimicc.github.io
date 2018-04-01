@@ -3,6 +3,8 @@ layout: page
 title: Hex Map Maker
 ---
 
+![App Screenshot]({{ site.baseurl }}/public/images/HexMap_iPad_and_iPhone_Screenshot.png)
+
 ## Make old-school RPG hex maps
 
 Easily make and print old-school style role-playing game hex maps!
@@ -22,12 +24,7 @@ Change hex types or map size without losing your current map! (Though it will lo
 * Save your maps to local storage so you can carry your entire campaign in your pocket.
 * Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit.
 
-## Screenshots
-iPad (works in both landscape and portrait orientations)
-![iPad Map Screenshot]({{ site.baseurl }}/public/images/HexMapiPadLandscapeMapFlat.png){:width="80%"}
 
-iPhone (works in both landscape and portrait orientations)
-![iPhoneX Map Screenshot]({{ site.baseurl }}/public/images/HexMapXPortraitMapPointy.png){:width="50%"}
 
 ## Support
 
