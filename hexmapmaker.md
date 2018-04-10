@@ -24,7 +24,8 @@ Change hex types or map size without losing your current map! (Though it will lo
 * Save your maps to local storage so you can carry your entire campaign in your pocket.
 * Print the map and then draw cities, roads, dungeons, rivers or anything else you need on it -- your imagination is the limit.
 
-
+## Design
+Design help by [Erika Cary](https://erikacary.com/).
 
 ## Support
 
