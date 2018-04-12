@@ -4,3 +4,11 @@
     margin: 0 auto;
     display: block;
 }
+
+.sidebar .small-print {
+    font-size: .6em
+}
+
+.sidebar a img {
+    display: inline;
+}

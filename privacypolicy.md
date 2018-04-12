@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_toc_page
 title: Privacy Policy
 ---
 
