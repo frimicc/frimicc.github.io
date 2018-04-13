@@ -19,7 +19,7 @@ stack to handle things like security, privacy, and performance.
 * [LinkedIn](https://www.linkedin.com/in/frimicc)
 * [Micro.blog](https://micro.blog/frimicc)
 
-You used to be able to find me at [Polyvore](https://www.polyvore.com), but alas, the site has been shut down.
+You used to be able to find me at [Polyvore](https://frimicc.polyvore.com), but alas, the site has been shut down.
 
 ## Projects
 
@@ -32,3 +32,9 @@ I wanted a place to put a few things on the web, so here we are.
 
 This site is hosted on [GitHub Pages](http://pages.github.com) and uses the [Hyde](http://hyde.getpoole.com) Jekyll theme.
 
+## Disclaimer
+
+Everything posted on this site is my own work. All views expressed are my own and don't represent the opinion of
+my employer or any group of which I'm a member. Code and opinions are provided as-is with no warranty whatsoever.
+
+This site is copyrighted material. Please do not repost without permission.
