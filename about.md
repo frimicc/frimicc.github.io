@@ -3,15 +3,18 @@ layout: page
 title: About
 ---
 
-I am an experienced system developer with over a decade of senior-level
+I am an experienced system developer with more than a decade of senior-level
 analysis, design, and implementation experience with complex systems.
-Always learning, my current chapter is as an iOS developer. My goal is to
-continue to learn and to design and develop systems and apps that make a
+I have recently hopped the fence to the front-end and am working as an iOS developer.
+I'm passionate about designing and developing systems and apps that make a
 difference in people's lives.
 
-The new "full-stack" is native apps + REST APIs. I make iOS
-apps and REST back end services. You really need an understanding of the whole
-stack to handle things like security, privacy, and performance.
+## What I Do
+
+I write high-quality, maintainable, and testable code for a living.
+I make iOS apps and REST back end services. I have an understanding of
+the full stack which lets me handle things like security, privacy, and performance
+that often cause trouble for front-end or mobile-only developers.
 
 ## Where to Find Me
 
@@ -19,7 +22,6 @@ stack to handle things like security, privacy, and performance.
 * [LinkedIn](https://www.linkedin.com/in/frimicc)
 * [Micro.blog](https://micro.blog/frimicc)
 
-You used to be able to find me at [Polyvore](https://frimicc.polyvore.com), but alas, the site has been shut down.
 
 ## Projects
 

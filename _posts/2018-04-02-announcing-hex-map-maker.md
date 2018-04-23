@@ -5,7 +5,7 @@ date: 2018-04-02
 ---
 
 Today marks the release of version 1.0 of Hex Map Maker, a new app for iOS that lets you easily make printable
-wilderness hex maps for old-school role-playing games. (OSR RPG, for the searches among you)
+wilderness hex maps for old-school role-playing games. (OSR RPG, for the searchers among you)
 
 I created this app because I wanted a better way to generate hex-based maps on my own iPad and iPhone. There are
 some great products out there, like Campaign Cartographer and Hexographer, but those are expensive and don't run on
