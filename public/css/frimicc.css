@@ -18,3 +18,7 @@
 .sidebar a img {
     display: inline;
 }
+
+.sidebar .active {
+  font-weight: bold;
+}
