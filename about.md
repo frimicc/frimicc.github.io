@@ -3,11 +3,10 @@ layout: page
 title: About
 ---
 
-I am an experienced system developer with more than a decade of senior-level
-analysis, design, and implementation experience with complex systems.
-I have recently hopped the fence to the front-end and am working as an iOS developer.
-I'm passionate about designing and developing systems and apps that make a
-difference in people's lives.
+I am an experienced iOS developer with more than a decade of senior-level
+analysis, design, and implementation experience with complex systems across many
+platforms and projects. I'm passionate about designing and developing systems
+and apps that make a difference in people's lives.
 
 ## What I Do
 
@@ -32,7 +31,8 @@ that often cause trouble for front-end or mobile-only developers.
 ## About This Blog
 I wanted a place to put a few things on the web, so here we are.
 
-This site is hosted on [GitHub Pages](http://pages.github.com) and uses the [Hyde](http://hyde.getpoole.com) Jekyll theme.
+This site is hosted on [GitHub Pages](http://pages.github.com) and uses
+a modified version of the [Hyde](http://hyde.getpoole.com) Jekyll theme.
 
 ## Disclaimer
 
