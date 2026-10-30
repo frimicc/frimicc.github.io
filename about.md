@@ -1,19 +1,29 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-I am an experienced iOS developer with more than a decade of senior-level
-analysis, design, and implementation experience with complex systems across many
-platforms and projects. I'm passionate about designing and developing systems
-and apps that make a difference in people's lives.
+I am a Senior iOS Software Engineer with 10+ years of experience architecting,
+designing, and scaling complex real-time mobile apps. I have a proven track record of
+leading large-scale legacy codebase migrations (UIKit/Objective-C to
+SwiftUI/Swift Concurrency) that drastically improve uptime and reduce customer
+issues. I'm an early user of AI-assisted workflows—using modern toolchains (Claude Code,
+Quality Layer, CodeRabbit) to aggressively accelerate delivery velocity, code
+coverage, and system safety without compromising maintainability.
 
 ## What I Do
 
-I write high-quality, maintainable, and testable code for a living.
-I make iOS apps and REST back end services. I have an understanding of
+I write high-quality, maintainable, and testable code for a living, with the
+help of modern LLMs and tools that help them make fewer mistakes.
+I make complex real-time iOS apps and design REST back end services. I have an understanding of
 the full stack which lets me handle things like security, privacy, and performance
 that often cause trouble for front-end or mobile-only developers.
+
+## Skills
+
+**iOS:** Swift, SwiftUI, Swift Concurrency, Combine, UIKit, Objective-C
+**AI:** Claude Code, Codex, Pilot Shell/Quality Layer
+**Other:** WebRTC, SQL, Application Architecture, Systems Analysis, Database Design
 
 ## Where to Find Me
 

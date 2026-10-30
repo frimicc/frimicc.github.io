@@ -7,7 +7,7 @@ title: Terms of Service
 
 ### 1. Terms
 
-By accessing the website at http://www.frimicc.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+By accessing the website at https://www.frimicc.com or using any of Michael Friedman's apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
 ### 2. Use License
     
@@ -48,6 +48,6 @@ Michael Friedman may revise these terms of service for his website or apps at an
 
 ### 8. Governing Law
 
-These terms and conditions are governed by and construed in accordance with the laws of California, County of Santa Clara, and you irrevocably submit to the exclusive jurisdiction of the courts in that location.
+These terms and conditions are governed by and construed in accordance with the laws of California, County of Sacramento, and you irrevocably submit to the exclusive jurisdiction of the courts in that location.
 
-Last Edited on 2018-03-21 by {{ site.author.name }}.
+Last Edited on 2026-10-29 by {{ site.author.name }}.
