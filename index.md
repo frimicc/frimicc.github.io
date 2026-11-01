@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome!
+image: https://www.frimicc.com/public/images/mike_and_bicyclist.png
 ---
 
 I’m an iOS developer and TTRPG player who likes to combine his passions:
