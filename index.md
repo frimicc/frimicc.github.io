@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Apps & Meanderings
 image: https://www.frimicc.com/public/images/mike_and_bicyclist.png
 ---
 
