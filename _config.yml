@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 plugins:
-    - jekyll-paginate
+    # - jekyll-paginate
     - jekyll-seo-tag
     - jekyll-feed
 
@@ -23,7 +23,7 @@ author:
   email:          'michael@frimicc.com'
   twitter:        frimicc
 
-paginate:         5
+# paginate:         5
 
 # Custom vars
 version:          1.0

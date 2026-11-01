@@ -22,3 +22,9 @@
 .sidebar .active {
   font-weight: bold;
 }
+
+/* Articles list */
+.article-date {
+    font-size: 0.8rem
+}
+

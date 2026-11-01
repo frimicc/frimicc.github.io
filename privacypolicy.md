@@ -87,13 +87,13 @@ In order to be in line with Fair Information Practices we will take the followin
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-## CAN SPAM Act
+## CAN-SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We collect your email address in order to send information, respond to inquiries, and/or other requests or questions.
 
-To be in accordance with CANSPAM, we agree to the following:
+To be in accordance with CAN-SPAM, we agree to the following:
 
 - Not use false or misleading subjects or email addresses.
 - Identify the message as an advertisement in some reasonable way.
@@ -114,10 +114,10 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 - Via postal mail:
     {{ site.author.name }},
-    370 Meridian Ave,
-    San Jose, CA 95126,
+    3006 Notre Dame Drive,
+    Sacramento, CA 95826,
     United States
 - Via email:
     {{ site.author.email }}
 
-Last Edited on 2018-03-20 by {{ site.author.name }}.
+Last Edited on 2026-10-29 by {{ site.author.name }}.
