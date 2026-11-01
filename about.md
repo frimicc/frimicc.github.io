@@ -47,6 +47,7 @@ that often cause trouble for front-end or mobile-only developers.
 
 * [Hex Map Maker](https://itunes.apple.com/us/app/hex-map-maker/id1357521031?mt=8)
 * [JIRA::Client::Automated](https://metacpan.org/pod/JIRA%3A%3AClient%3A%3AAutomated)
+* Plus [a synopsis of my recent paid work projects](../projects)
 
 
 ## About This Blog
