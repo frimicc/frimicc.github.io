@@ -36,6 +36,11 @@ that often cause trouble for front-end or mobile-only developers.
 **AI:** Claude Code, Codex, Pilot Shell/Quality Layer<br>
 **Other:** WebRTC, SQL, Application Architecture, Systems Analysis, Database Design
 
+## Resume
+
+As of November 2026, I'm looking for work. Here's my
+[Résumé](../public/resume.pdf).
+
 ## Where to Find Me
 
 * [GitHub](https://www.github.com/frimicc)
